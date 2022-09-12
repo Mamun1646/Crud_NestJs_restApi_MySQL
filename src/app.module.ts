@@ -4,7 +4,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 
 import { User } from './user/entity/user.entity';
 import { UserModule } from './user/user.module';
-import { ProfileModule } from './profile/profile.module';
+// import { ProfileModule } from './profile/profile.module';
 
 @Module({
   // controllers: [AppController],
